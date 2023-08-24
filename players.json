@@ -1,0 +1,715 @@
+[
+    {
+      "id": 1,
+      "name": "Lionel Messi",
+      "image": "https://mundoalbiceleste.com/wp-content/uploads/2019/03/636654404591000000-GTY-980548622.jpg",
+      "position": "Forward",
+      "price": "$120 million",
+      "country": "Argentina"
+    },
+    {
+      "id": 2,
+      "name": "Cristiano Ronaldo",
+      "image": "https://hdqwalls.com/wallpapers/cristiano-ronaldo-new.jpg",
+      "position": "Forward",
+      "price": "$100 million",
+      "country": "Portugal"
+    },
+    {
+      "id": 3,
+      "name": "Neymar Jr.",
+      "image": "https://wallpapercave.com/wp/wc1740108.jpg",
+      "position": "Forward",
+      "price": "$90 million",
+      "country": "Brazil"
+    },
+    {
+      "id": 4,
+      "name": "Virgil van Dijk",
+      "image": "https://www.chiamarsibomber.com/wp-content/uploads/2019/09/virgil-van-dijk-catenaccio-e-contropiede.jpg",
+      "position": "Defender",
+      "price": "$80 million",
+      "country": "Netherlands"
+    },
+    {
+      "id": 5,
+      "name": "Kylian Mbappé",
+      "image": "https://sports.inquirer.net/files/2019/01/mbappe-league-one.jpeg",
+      "position": "Forward",
+      "price": "$150 million",
+      "country": "France"
+    },
+    {
+      "id": 6,
+      "name": "Kevin De Bruyne",
+      "image": "https://liverpoollatestnews.com/wp-content/uploads/2019/11/Kevin-De-Bruyne-explains-why-he-loves-playing-at-Anfield.jpg",
+      "position": "Midfielder",
+      "price": "$110 million",
+      "country": "Belgium"
+    },
+    {
+      "id": 7,
+      "name": "Sergio Ramos",
+      "image": "https://www.fussballeuropa.com/images/xtra/sergio-ramos-2019-06-03.jpg",
+      "position": "Defender",
+      "price": "$70 million",
+      "country": "Spain"
+    },
+    {
+      "id": 8,
+      "name": "Mohamed Salah",
+      "image": "https://1.bp.blogspot.com/-C_ylS94mVwU/XkVCIAmn0DI/AAAAAAAAEps/BZ-RTtvAReExIH1ZsNhpyA9MI9pH2FVDACLcBGAsYHQ/s1600/Mohamed-Salah.jpg",
+      "position": "Forward",
+      "price": "$95 million",
+      "country": "Egypt"
+    },
+    {
+      "id": 9,
+      "name": "Manuel Neuer",
+      "image": "https://bayernstrikes.com/wp-content/uploads/getty-images/2017/07/1162363996.jpeg",
+      "position": "Goalkeeper",
+      "price": "$50 million",
+      "country": "Germany"
+    },
+    {
+      "id": 10,
+      "name": "Robert Lewandowski",
+      "image": "https://www.onlinegambling.com/news/wp-content/uploads/2021/07/lew10.jpg",
+      "position": "Forward",
+      "price": "$85 million",
+      "country": "Poland"
+    },
+    {
+      "id": 11,
+      "name": "Paul Pogba",
+      "image": "https://www.dynamitenews.com/images/2020/06/02/racism-has-to-stop-paul-pogba-pays-tribute-to-george-floyd/5ed5f335ba70f.jpeg",
+      "position": "Midfielder",
+      "price": "$75 million",
+      "country": "France"
+    },
+    {
+      "id": 12,
+      "name": "Harry Kane",
+      "image": "https://imagesvc.timeincapp.com/v3/fan/image?url=https://hotspurhq.com/wp-content/uploads/getty-images/2019/12/1192491320.jpeg&",
+      "position": "Forward",
+      "price": "$100 million",
+      "country": "England"
+    },
+    {
+      "id": 13,
+      "name": "Andres Iniesta",
+      "image": "https://acefootball.com/wp-content/uploads/2020/12/GettyImages-1289886604.jpg",
+      "position": "Midfielder",
+      "price": "$40 million",
+      "country": "Spain"
+    },
+    {
+      "id": 14,
+      "name": "Gianluigi Buffon",
+      "image": "http://images.performgroup.com/di/library/GOAL/91/9e/gigi-buffon-monaco-juve-champions-league_1ch0ji8el0s81171kuka2peibm.jpg?t=-806079301",
+      "position": "Goalkeeper",
+      "price": "$30 million",
+      "country": "Italy"
+    },
+    {
+      "id": 15,
+      "name": "Eden Hazard",
+      "image": "https://d.newsweek.com/en/full/517744/eden-hazard.jpg",
+      "position": "Forward",
+      "price": "$70 million",
+      "country": "Belgium"
+    },
+    {
+      "id": 16,
+      "name": "Sadio Mané",
+      "image": "https://images.daznservices.com/di/library/GOAL/a2/ec/sadio-mane-liverpool-2019-20_14uvaynrbh2121g3q7o2kla4vc.jpg?t=1826142671&quality=100",
+      "position": "Forward",
+      "price": "$80 million",
+      "country": "Senegal"
+    },
+    {
+      "id": 17,
+      "name": "Toni Kroos",
+      "image": "https://therealchamps.com/wp-content/uploads/getty-images/2020/03/1210226658.jpeg",
+      "position": "Midfielder",
+      "price": "$60 million",
+      "country": "Germany"
+    },
+    {
+      "id": 18,
+      "name": "Marcelo",
+      "image": "https://www.periodistadigital.com/wp-content/uploads/2016/11/Marcelo-REAL-MADRID.jpg",
+      "position": "Defender",
+      "price": "$50 million",
+      "country": "Brazil"
+    },
+    {
+      "id": 19,
+      "name": "David Alaba",
+      "image": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https://bayernstrikes.com/wp-content/uploads/getty-images/2017/07/1205273390.jpeg",
+      "position": "Defender",
+      "price": "$65 million",
+      "country": "Austria"
+    },
+    {
+      "id": 20,
+      "name": "Antoine Griezmann",
+      "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/08/12/15/antoine-griezmann.jpg",
+      "position": "Forward",
+      "price": "$90 million",
+      "country": "France"
+    },
+    {
+      "id": 21,
+      "name": "Luka Modrić",
+      "image": "https://images.daznservices.com/di/library/GOAL/70/51/luka-modric-croatia-argentina-world-cup-2018_1w41nj46w6orv15tx1hq9q9cox.jpg?t=598252852&quality=100",
+      "position": "Midfielder",
+      "price": "$55 million",
+      "country": "Croatia"
+    },
+    {
+      "id": 22,
+      "name": "Romelu Lukaku",
+      "image": "https://www.thesportsman.com/media/images/admin/football/original/Lukaku_down.jpg",
+      "position": "Forward",
+      "price": "$75 million",
+      "country": "Belgium"
+    },
+    {
+      "id": 23,
+      "name": "Joshua Kimmich",
+      "image": "https://img.fcbayern.com/image/upload/v1604859140/cms/public/images/fcbayern-com/homepage/saison-20-21/profis/Kimmich/201021_Kimmich_GET.jpg",
+      "position": "Midfielder",
+      "price": "$70 million",
+      "country": "Germany"
+    },
+    {
+      "id": 24,
+      "name": "Thiago Silva",
+      "image": "https://firstsportz.com/wp-content/uploads/2020/07/thiago-silva-scaled.jpg",
+      "position": "Defender",
+      "price": "$35 million",
+      "country": "Brazil"
+    },
+    {
+      "id": 25,
+      "name": "Edinson Cavani",
+      "image": "https://images.assettype.com/freepressjournal/2020-02/08077aa4-48a4-4d08-8e3c-cb29312f2285/Edinson_Cavani.jpg",
+      "position": "Forward",
+      "price": "$40 million",
+      "country": "Uruguay"
+    },
+    {
+      "id": 26,
+      "name": "Isco",
+      "image": "https://images.performgroup.com/di/library/GOAL/c8/3f/isco-real-madrid-2018_1grl597aihb5l19g79yf3bynwh.jpg?t=-1416828905&quality=100",
+      "position": "Midfielder",
+      "price": "$50 million",
+      "country": "Spain"
+    },
+    {
+      "id": 27,
+      "name": "Kalidou Koulibaly",
+      "image": "https://images.performgroup.com/di/library/GOAL/16/a3/kalidou-koulibaly-napoli_1acj84171g6z51mvgp0icf0o7j.jpg?t=-1708635135",
+      "position": "Defender",
+      "price": "$65 million",
+      "country": "Senegal"
+    },
+    {
+      "id": 28,
+      "name": "Hakim Ziyech",
+      "image": "https://wallpapercave.com/wp/wp4523405.jpg",
+      "position": "Midfielder",
+      "price": "$45 million",
+      "country": "Morocco"
+    },
+    {
+      "id": 29,
+      "name": "Alisson Becker",
+      "image": "https://foxsports1340am.com/wp-content/uploads/2019/11/1153378614_jpg_0.jpg",
+      "position": "Goalkeeper",
+      "price": "$60 million",
+      "country": "Brazil"
+    },
+    {
+      "id": 30,
+      "name": "Bernardo Silva",
+      "image": "https://www.expressandstar.com/resizer/nuVaX0cRNMCuo0RwZfnhltQeccM=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/T6NNRR4N7ZB75LUTUCBK6Q4ALE.jpg",
+      "position": "Midfielder",
+      "price": "$55 million",
+      "country": "Portugal"
+    },
+    {
+      "id": 31,
+      "name": "Aymeric Laporte",
+      "image": "https://e0.365dm.com/18/01/2048x1152/skysports-aymeric-laporte-manchester-city-premier-league-football_4219474.jpg?20180131214655",
+      "position": "Defender",
+      "price": "$50 million",
+      "country": "France"
+    },
+    {
+      "id": 32,
+      "name": "Pierre-Emerick Aubameyang",
+      "image": "https://i0.wp.com/sportytell.com/wp-content/uploads/2019/10/pierre-emerick-aubameyang-arsenal-2019.jpg?fit=1920%2C1080&ssl=1",
+      "position": "Forward",
+      "price": "$65 million",
+      "country": "Gabon"
+    },
+    {
+      "id": 33,
+      "name": "James Rodríguez",
+      "image": "https://thekoptimes.com/wp-content/uploads/2018/01/james-rodriguez.jpg",
+      "position": "Midfielder",
+      "price": "$45 million",
+      "country": "Colombia"
+    },
+    {
+      "id": 34,
+      "name": "Marc-André ter Stegen",
+      "image": "https://i2-prod.dailystar.co.uk/incoming/article20472120.ece/ALTERNATES/s1227b/httpscdnimagesdailystarcoukdynamic122photos611000900x738399611",
+      "position": "Goalkeeper",
+      "price": "$70 million",
+      "country": "Germany"
+    },
+    {
+      "id": 35,
+      "name": "Raheem Sterling",
+      "image": "https://wallpaperheart.com/wp-content/uploads/2018/05/Raheem-Sterling-wallpaper-hd-6.jpg",
+      "position": "Forward",
+      "price": "$60 million",
+      "country": "England"
+    },
+    {
+      "id": 36,
+      "name": "Gareth Bale",
+      "image": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https://therealchamps.com/wp-content/uploads/getty-images/2017/07/1201480516.jpeg",
+      "position": "Forward",
+      "price": "$50 million",
+      "country": "Wales"
+    },
+    {
+      "id": 37,
+      "name": "Frenkie de Jong",
+      "image": "https://ligadeportiva.com/static/e0b84969b2512e862b58535a71464fb5/18346/frenkie-de-jong-style-of-play.jpg",
+      "position": "Midfielder",
+      "price": "$70 million",
+      "country": "Netherlands"
+    },
+    {
+      "id": 38,
+      "name": "Miralem Pjanić",
+      "image": "https://imagesvc.timeincapp.com/v3/fan/image?url=https://everythingbarca.com/wp-content/uploads/getty-images/2017/07/960312410.jpeg&",
+      "position": "Midfielder",
+      "price": "$45 million",
+      "country": "Bosnia and Herzegovina"
+    },
+    {
+      "id": 39,
+      "name": "Keylor Navas",
+      "image": "https://e00-marca.uecdn.es/deporte/futbol/100-jugadores-2017/imgs/jugadores/keylor_navas.JPG",
+      "position": "Goalkeeper",
+      "price": "$40 million",
+      "country": "Costa Rica"
+    },
+    {
+      "id": 40,
+      "name": "Luka Jović",
+      "image": "https://images.daznservices.com/di/library/GOAL/f7/32/luka-jovic-real-madrid-2019-20_vzsrp5uv481w1xb862uhu5tgh.jpg?t=-154206592&quality=100",
+      "position": "Forward",
+      "price": "$40 million",
+      "country": "Serbia"
+    },
+    {
+      "id": 41,
+      "name": "João Cancelo",
+      "image": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2019/12/31/20/joaocancelo3112.jpg",
+      "position": "Defender",
+      "price": "$55 million",
+      "country": "Portugal"
+    },
+    {
+      "id": 42,
+      "name": "N'Golo Kanté",
+      "image": "https://i.eurosport.com/2018/03/09/2289513-47689055-2560-1440.jpg",
+      "position": "Midfielder",
+      "price": "$65 million",
+      "country": "France"
+    },
+    {
+      "id": 43,
+      "name": "Lucas Hernández",
+      "image": "https://news.gnet.tn/wp-content/uploads/2019/03/lucas-hernandez.jpg",
+      "position": "Defender",
+      "price": "$50 million",
+      "country": "France"
+    },
+    {
+      "id": 44,
+      "name": "Riyad Mahrez",
+      "image": "https://www.sportzcraazy.com/wp-content/uploads/2019/11/nintchdbpict0003633886741-scaled.jpg",
+      "position": "Forward",
+      "price": "$55 million",
+      "country": "Algeria"
+    },
+    {
+      "id": 45,
+      "name": "Timo Werner",
+      "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2020/06/18/thumbs/800x531/41653.jpg?v=1592480476",
+      "position": "Forward",
+      "price": "$50 million",
+      "country": "Germany"
+    },
+    {
+      "id": 46,
+      "name": "Raphaël Varane",
+      "image": "https://d.ibtimes.co.uk/en/full/1586580/raphael-varane.jpg",
+      "position": "Defender",
+      "price": "$60 million",
+      "country": "France"
+    },
+    {
+      "id": 47,
+      "name": "Bruno Fernandes",
+      "image": "https://www.enca.com/sites/default/files/2020-01/000_1OI7PN.jpg",
+      "position": "Midfielder",
+      "price": "$75 million",
+      "country": "Portugal"
+    },
+    {
+      "id": 48,
+      "name": "Serge Gnabry",
+      "image": "https://bayernstrikes.com/wp-content/uploads/getty-images/2017/07/1128412123.jpeg",
+      "position": "Forward",
+      "price": "$55 million",
+      "country": "Germany"
+    },
+    {
+      "id": 49,
+      "name": "Marcos Llorente",
+      "image": "https://k7x6n8x2.stackpathcdn.com/wp-content/uploads/2021/06/1003143358-scaled.jpg",
+      "position": "Midfielder",
+      "price": "$45 million",
+      "country": "Spain"
+    },
+    {
+      "id": 50,
+      "name": "Thomas Müller",
+      "image": "https://example.com/muller.jpg",
+      "position": "Forward",
+      "price": "$60 million",
+      "country": "Germany"
+    },
+    {
+      "id": 51,
+      "name": "Andrew Robertson",
+      "image": "https://e0.365dm.com/14/01/1600x900/Andrew_3062820.jpg?20140107154835",
+      "position": "Defender",
+      "price": "$50 million",
+      "country": "Scotland"
+    },
+    {
+      "id": 52,
+      "name": "Christian Pulisic",
+      "image": "https://s.yimg.com/uu/api/res/1.2/lug6BO1DYXhAXXFuUN.SHg--~B/aD0zNjQ4O3c9NTQ3MjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-07/bca0c530-ccf8-11ea-bf9f-56e65913be92",
+      "position": "Forward",
+      "price": "$70 million",
+      "country": "United States"
+    },
+    {
+      "id": 53,
+      "name": "Hirving Lozano",
+      "image": "https://i0.wp.com/234sport.com/wp-content/uploads/2019/05/Hirving-Lozano.jpg?fit=1600%2C1200&ssl=1",
+      "position": "Forward",
+      "price": "$40 million",
+      "country": "Mexico"
+    },
+    {
+      "id": 54,
+      "name": "Declan Rice",
+      "image": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2019/02/21/17/declanrice2102a-0.jpg",
+      "position": "Midfielder",
+      "price": "$60 million",
+      "country": "England"
+    },
+    {
+      "id": 55,
+      "name": "Dries Mertens",
+      "image": "https://football-tribe.com/asia/wp-content/uploads/sites/8/2017/02/623041566.jpg",
+      "position": "Forward",
+      "price": "$45 million",
+      "country": "Belgium"
+    },
+    {
+      "id": 56,
+      "name": "Kalvin Phillips",
+      "image": "https://e0.365dm.com/19/09/2048x1152/skysports-kalvin-phillips-leeds_4769406.jpg?20190909134028",
+      "position": "Midfielder",
+      "price": "$50 million",
+      "country": "England"
+    },
+    {
+      "id": 57,
+      "name": "Kieran Tierney",
+      "image": "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2019/03/NINTCHDBPICT000473309634.jpg",
+      "position": "Defender",
+      "price": "$40 million",
+      "country": "Scotland"
+    },
+    {
+      "id": 58,
+      "name": "Yusuf Yazıcı",
+      "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/02/01/89926.jpg",
+      "position": "Midfielder",
+      "price": "$35 million",
+      "country": "Turkey"
+    },
+    {
+      "id": 59,
+      "name": "Emiliano Martínez",
+      "image": "https://www.passionepremier.com/wp-content/uploads/2020/08/fbl-eng-pr-arsenal-liverpool-scaled.jpg",
+      "position": "Goalkeeper",
+      "price": "$30 million",
+      "country": "Argentina"
+    },
+    {
+      "id": 60,
+      "name": "Federico Chiesa",
+      "image": "https://www.thesportsbank.net/wp-content/uploads/2021/07/federico-chiesa-1536x1024.jpg",
+      "position": "Forward",
+      "price": "$55 million",
+      "country": "Italy"
+    },
+    {
+      "id": 61,
+      "name": "Saul Niguez",
+      "image": "https://wallpapercave.com/wp/wp3917088.jpg",
+      "position": "Midfielder",
+      "price": "$60 million",
+      "country": "Spain"
+    },
+    {
+      "id": 62,
+      "name": "Erling Haaland",
+      "image": "https://assets.khelnow.com/news/uploads/2020/02/Erling-Haaland-scaled.jpg",
+      "position": "Forward",
+      "price": "$100 million",
+      "country": "Norway"
+    },
+    {
+      "id": 63,
+      "name": "Achraf Hakimi",
+      "image": "https://img.bundesliga.com/tachyon/sites/2/2019/12/achraf-hakimi-bvb-run.jpg?crop=0px,0px,1920px,1080px&fit=1140",
+      "position": "Defender",
+      "price": "$50 million",
+      "country": "Morocco"
+    },
+    {
+      "id": 64,
+      "name": "João Félix",
+      "image": "https://images.performgroup.com/di/library/GOAL/2a/3b/joao-felix-benfica-2018-19_s3c5f324uvgm1uocjf0rpyoce.jpg?t=230332634&quality=100",
+      "position": "Forward",
+      "price": "$80 million",
+      "country": "Portugal"
+    },
+    {
+      "id": 65,
+      "name": "Dominik Szoboszlai",
+      "image": "https://images.daznservices.com/di/library/GOAL/63/14/dominik-szoboszlai-rb-salzburg-2019-20_96dfbmhdv2hr1tgzzikijxjz5.jpg?t=991432374",
+      "position": "Midfielder",
+      "price": "$40 million",
+      "country": "Hungary"
+    },
+    {
+      "id": 66,
+      "name": "Ansu Fati",
+      "image": "https://1.bp.blogspot.com/-T8XOM2LFmls/XjkWZqAmBdI/AAAAAAAAATY/8MeHxPMQlDYseVC1pzGZagjDdbGrfi4pQCNcBGAsYHQ/s1600/Ansu%2BFati.jpg",
+      "position": "Forward",
+      "price": "$70 million",
+      "country": "Spain"
+    },
+    {
+      "id": 67,
+      "name": "Rodrigo Bentancur",
+      "image": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https://playingfor90.com/wp-content/uploads/getty-images/2018/08/1066423520.jpeg",
+      "position": "Midfielder",
+      "price": "$45 million",
+      "country": "Uruguay"
+    },
+    {
+      "id": 68,
+      "name": "Sergej Milinković-Savić",
+      "image": "https://wallpapercave.com/wp/wp4530539.jpg",
+      "position": "Midfielder",
+      "price": "$60 million",
+      "country": "Serbia"
+    },
+    {
+      "id": 69,
+      "name": "Jude Bellingham",
+      "image": "https://img.bundesliga.com/tachyon/sites/2/2020/11/SW2_5943.jpg?crop=0px,0px,1920px,1080px&fit=1140",
+      "position": "Midfielder",
+      "price": "$50 million",
+      "country": "England"
+    },
+    {
+      "id": 70,
+      "name": "Nicolo Barella",
+      "image": "https://icdn.sempreinter.com/wp-content/uploads/2021/05/Nicolo-Barella-1-2048x1365.jpg",
+      "position": "Midfielder",
+      "price": "$55 million",
+      "country": "Italy"
+    },
+    {
+      "id": 71,
+      "name": "Piotr Zieliński",
+      "image": "https://cdn.galleries.smcloud.net/t/galleries/gf-3jzA-7oPh-XKvc_piotr-zielinski-1920x1080-nocrop.JPG",
+      "position": "Midfielder",
+      "price": "$50 million",
+      "country": "Poland"
+    },
+    {
+      "id": 72,
+      "name": "Alessandro Bastoni",
+      "image": "https://icdn.sempreinter.com/wp-content/uploads/2021/04/Inter-Alessandro-Bastoni-2048x1365.jpg",
+      "position": "Defender",
+      "price": "$40 million",
+      "country": "Italy"
+    },
+    {
+      "id": 73,
+      "name": "Renato Sanches",
+      "image": "https://e0.365dm.com/16/02/2048x1152/renato-sanches-benfica_3416700.jpg?20160216062147",
+      "position": "Midfielder",
+      "price": "$45 million",
+      "country": "Portugal"
+    },
+    {
+      "id": 74,
+      "name": "Dani Olmo",
+      "image": "https://metro.co.uk/wp-content/uploads/2019/07/PRI_72080796.jpg?quality=90&strip=all",
+      "position": "Midfielder",
+      "price": "$50 million",
+      "country": "Spain"
+    },
+    {
+      "id": 75,
+      "name": "Josip Iličić",
+      "image": "https://www.delo.si/images/slike/2019/12/19/1590870.jpg",
+      "position": "Forward",
+      "price": "$35 million",
+      "country": "Slovenia"
+    },
+    {
+      "id": 76,
+      "name": "Wilfred Ndidi",
+      "image": "https://i.pinimg.com/originals/d1/6f/65/d16f6589a90151f2e6aa377dff99522a.jpg",
+      "position": "Midfielder",
+      "price": "$50 million",
+      "country": "Nigeria"
+    },
+    {
+      "id": 77,
+      "name": "Jannik Vestergaard",
+      "image": "https://imagesvc.timeincapp.com/v3/fan/image?url=https://saintsmarching.com/wp-content/uploads/getty-images/2017/07/1095363934.jpeg&",
+      "position": "Defender",
+      "price": "$40 million",
+      "country": "Denmark"
+    },
+    {
+      "id": 78,
+      "name": "Joaquín Correa",
+      "image": "https://icdn.sempreinter.com/wp-content/uploads/2021/02/joaquin-correa-1536x1024.jpg",
+      "position": "Forward",
+      "price": "$45 million",
+      "country": "Argentina"
+    },
+    {
+      "id": 79,
+      "name": "Leandro Paredes",
+      "image": "https://icdn.psgtalk.com/wp-content/uploads/2021/02/leandro-paredes-psg-v-nice-ligue-1-2021.jpg",
+      "position": "Midfielder",
+      "price": "$50 million",
+      "country": "Argentina"
+    },
+    {
+      "id": 80,
+      "name": "Daniel Podence",
+      "image": "https://wp.inews.co.uk/wp-content/uploads/2020/07/PRI_155639566.jpg",
+      "position": "Forward",
+      "price": "$40 million",
+      "country": "Portugal"
+    },
+    {
+      "id": 81,
+      "name": "Vinicious Junior",
+      "image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt1617a870ec60f5f9/63f54b5e99653b105e66badf/Vinicius-Junior-Real-Madrid-2022-23.jpg",
+      "position": "LWF",
+      "price": "$105 million",
+      "country": "Brazil"
+    },
+    {
+      "id": 82,
+      "name": "Mateo Kovačić",
+      "image": "https://images.performgroup.com/di/library/GOAL/41/3f/mateo-kovacic-croatia-2018_1i0k17d9uu9651a1u2ek5k54jy.jpg?t=1899741404&quality=100",
+      "position": "Midfielder",
+      "price": "$50 million",
+      "country": "Croatia"
+    },
+    {
+      "id": 83,
+      "name": "Joachim Andersen",
+      "image": "https://mercatofootanglais.com/wp-content/uploads/2021/04/joachim-andersen-fuham-2048x1379.jpg",
+      "position": "Defender",
+      "price": "$40 million",
+      "country": "Denmark"
+    },
+    {
+      "id": 84,
+      "name": "Gerson",
+      "image": "https://rd1.com.br/wp-content/uploads/2020/03/20200305-20191210-gerson-do-flamengo-em-foto-para-o-uol-12092019-1568762054735_v2_1920x1080.jpg",
+      "position": "Midfielder",
+      "price": "$50 million",
+      "country": "Brazil"
+    },
+    {
+      "id": 85,
+      "name": "Yann Karamoh",
+      "image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt8ef57f712a1aecb4/60de0e13ddcd520eeb936cd8/ee96d213f6d9095cc9d973df05d4f5026c560bb3.jpg",
+      "position": "Forward",
+      "price": "$30 million",
+      "country": "Ivory Coast"
+    },
+    {
+      "id": 86,
+      "name": "Nico Elvedi",
+      "image": "https://bulinews.com/i/x/104.jpg",
+      "position": "Defender",
+      "price": "$40 million",
+      "country": "Switzerland"
+    },
+    {
+      "id": 87,
+      "name": "Youri Tielemans",
+      "image": "https://metro.co.uk/wp-content/uploads/2019/05/SEI_64659024.jpg?quality=90&strip=all",
+      "position": "Midfielder",
+      "price": "$55 million",
+      "country": "Belgium"
+    },
+    {
+      "id": 88,
+      "name": "Orkun Kökcü",
+      "image": "https://www.elgoldigital.com/wp-content/uploads/2021/04/Orkun-Kokcu.jpg",
+      "position": "Midfielder",
+      "price": "$40 million",
+      "country": "Turkey"
+    },
+    {
+      "id": 89,
+      "name": "Maxence Lacroix",
+      "image": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https://bvbbuzz.com/wp-content/uploads/getty-images/2017/07/1292398061.jpeg",
+      "position": "Defender",
+      "price": "$45 million",
+      "country": "France"
+    }
+  ]
+  
